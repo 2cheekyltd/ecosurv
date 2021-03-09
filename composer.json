@@ -1,0 +1,6 @@
+{
+    "name": "2cheekyltd/ecosurv",
+    "type": "library",
+    "description": "Task - use dogceo API to list all the dog breeds",
+    "license": "MIT"
+}
